@@ -218,6 +218,26 @@ input{
     text-align: center;
     
 }
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+footer div img{
+    width: 20px;
+    height: 20px;
+    
+}
+footer div{
+    margin-left: 20px;
+    padding: 20px;
+}
+footer h5{
+    font-size: 20px;
+}
+footer a{
+    margin-right: 20px;
+}
 /* .suppot .suppor-text{
     margin-top: 200px;
 } */
